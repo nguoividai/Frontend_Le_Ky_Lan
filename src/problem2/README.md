@@ -83,7 +83,6 @@ currency-swap/
 - `use-tokens.ts`: Handles token data and operations
 - `use-swap.ts`: Manages currency swap operations
 - `use-transactions.ts`: Processes and retrieves transaction history
-- `use-toast.ts`: Manages toast notifications
 - `use-mobile.tsx`: Handles responsive design logic
 
 ### Key Components
